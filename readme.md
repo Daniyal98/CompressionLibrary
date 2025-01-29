@@ -20,19 +20,23 @@ A C++ library that implements various data compression algorithms, including **H
 ```bash
 git clone https://github.com/yourusername/CompressionLibrary.git
 cd CompressionLibrary
+```
 
 ### Build the project using CMake
 ```bash
 mkdir build
 cd build
+```
 
 ### Run CMake to generate the build files
 ```bash
 cmake ..
+```
 
 ### Compile the project
 ```bash
 make
+```
 
 ### Run the tests
 ```bash
@@ -63,3 +67,4 @@ int main() {
 
     return 0;
 }
+```
